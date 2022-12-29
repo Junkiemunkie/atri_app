@@ -1,0 +1,44 @@
+{
+  "portfolio.svg": {
+    "mime": "image/svg+xml"
+  },
+  "man image.jpg": {
+    "mime": "image/jpeg"
+  },
+  "logo1.png": {
+    "mime": "image/png"
+  },
+  "logo2.png": {
+    "mime": "image/png"
+  },
+  "logo3.png": {
+    "mime": "image/png"
+  },
+  "logo4.png": {
+    "mime": "image/png"
+  },
+  "icon1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icon2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icon3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "proj1.png": {
+    "mime": "image/png"
+  },
+  "proj3.png": {
+    "mime": "image/png"
+  },
+  "testimonial1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "testimonial2.png": {
+    "mime": "image/png"
+  },
+  "portfolio white.svg": {
+    "mime": "image/svg+xml"
+  }
+}

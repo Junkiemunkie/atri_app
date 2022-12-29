@@ -1,0 +1,387 @@
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.p-Home.Link1 a:hover{
+    opacity: 50%;
+}
+.p-Home.Link2 a:hover{
+    opacity: 50%;
+}
+.p-Home.Link3 a:hover{
+    opacity: 50%;
+}
+.p-Home.Link4 a:hover{
+    opacity: 50%;
+}
+.p-Home.Link5 a:hover{
+    opacity: 50%;
+}
+
+.p-Home {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.p-Home.text_container {
+    //display: grid;
+   // grid-template-rows: 100px 100px;//
+    display: block;
+    justify-content: flex-start;
+    justify-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.p-Home.TextBox28 {
+    display: inline;
+    padding-right: 5px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 70px;
+}
+
+.p-Home.TextBox29{
+        display: grid;
+        grid-template-columns: 500px 100px;
+        margin-bottom: 0px;
+        color: #000;
+        font-size: 70px;
+        font-weight: 700;
+        letter-spacing: -2px
+}
+
+.p-Home.TextBox30{
+    display: grid;
+    grid-template-columns: 600px 100px;
+    line-height: 150%;
+    opacity: 70%;
+}
+
+.p-Home.intr_p {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.p-Home.button_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.p-Home.Button1{
+
+    background: transparent;
+    border: 0px;
+    color: #000;
+}
+
+.p-Home.Image2{
+    width: 80%;
+    height: 400%;
+
+}
+
+.p-Home.Div11{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.p-Home.TextBox31 {
+    opacity: 80%;
+}
+
+.p-Home.TextBox32{
+    display: inline-block;
+    margin-bottom: 0px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    font-size: 22px;
+    line-height: 100%;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox33 {
+    display: grid;
+    grid-template-columns: 750px 100px;
+    text-align: center;
+    font-size: 50px;
+    justify-items: center;
+    letter-spacing: 1px;
+
+}
+
+
+.p-Home.Div24{
+    display: grid;
+    justify-items: left;
+
+}
+
+.p-Home.TextBox35{
+    opacity: 60%;
+    display: grid;
+    grid-template-columns: 250px 70px 50px;
+    margin-bottom: 20px;
+
+}
+.p-Home.TextBox42{
+    opacity: 60%;
+    display: grid;
+    grid-template-columns: 250px 70px 50px;
+    margin-bottom: 20px;
+
+}
+.p-Home.TextBox45{
+    opacity: 60%;
+    display: grid;
+    grid-template-columns: 250px 70px 50px;
+    margin-bottom: 20px;
+
+}
+
+.p-Home.Div29{
+    display: grid;
+    justify-items: left;
+
+}
+.p-Home.Div30{
+    display: grid;
+    justify-items: left;
+
+}
+
+.p-Home.Div31{
+    display: grid;
+    justify-items: left;
+
+}
+
+.p-Home.TextBox49{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    font-size: 22px;
+    line-height: 100%;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox50{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #000;
+    font-size: 54px;
+    line-height: 110%;
+    font-weight: 700;
+    letter-spacing: 1px;
+    display: grid;
+    grid-template-columns: 450px 70px;
+}
+.p-Home.Div32{
+    justify-items: center;
+    align-items: center;
+    box-shadow: 10px 10px lightcoral;
+    height: 50px;
+}
+
+
+.p-Home.Div35{
+    display: grid;
+    justify-items: left;
+    box-shadow: 0 4px 8px 0 rgba(233, 196, 196, 0.2), 0 6px 20px 0 rgba(233, 232, 232, 0.19);
+
+}
+
+.p-Home.Div47{
+    display: grid;
+    justify-items: left;
+    box-shadow: 0 4px 8px 0 rgba(233, 196, 196, 0.2), 0 6px 20px 0 rgba(233, 232, 232, 0.19);
+
+}
+
+.p-Home.Div39{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+.p-Home.Div46{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+
+.p-Home.Flex21{
+    background-color: #000;
+}
+
+.p-Home.Div57{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.p-Home.TextBox53{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    font-size: 22px;
+    line-height: 100%;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox56{
+    color: #000;
+    font-size: 54px;
+    line-height: 110%;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.p-Home.Div58 img{
+    height: 400px;
+    width: 400px;
+    filter: grayscale(100%);
+    border-radius: 15px;
+}
+
+.card-details{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.p-Home.Div59{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-items: center;
+    align-items: center;
+    
+}
+
+.p-Home.TextBox59{
+    display: inline-block;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    font-size: 22px;
+    line-height: 100%;
+    font-weight: 700;
+    letter-spacing: 4px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox58{
+    font-size: 54px;
+    line-height: 110%;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.accordion-text{
+    background: transparent;
+}
+
+.p-Home.Div61{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.p-Home.Div62{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.p-Home.TextBox60{
+    color: whitesmoke;
+    font-size: 50px;
+    line-height: 110%;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.p-Home.TextBox61{
+    display: inline;
+    background-image: linear-gradient(108deg, #b16cea 14%, #ff5e69 57%, #ff8a56 81%, #ffa84b);
+    -webkit-transition: background-position 2000ms ease;
+    transition: background-position 2000ms ease;
+    font-size: 54px;
+    line-height: 110%;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.Div75{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.p-Home.Div76{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-top: 80px;
+    padding-right: 100px;
+    flex-direction: column;
+}
+
+.p-Home.Image17{
+    padding-left: 425px;
+    height: 100px;
+    width: 300px;
+
+}
+
+.p-Home.TextBox63{
+    opacity: 70%;
+}
+
+.p-Home.Div78{
+    box-shadow: 10px 10px lightcoral;
+}
+
+
+
+
+    
+
+
+
+
+
